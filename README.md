@@ -1,6 +1,12 @@
 # cse-java-chassis-build
 The docker image include a full build environment for cse-java-chassis.
 
+## Build docker images
+Clone the code here and enter the folder. Then perform the following command:
+```
+docker build -t cse-java-chassis-build .
+```
+
 ## How to use
 For example:
 ```
